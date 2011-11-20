@@ -1,0 +1,7 @@
+So you're checking out my first ever git repository.
+
+It's not very interesting.
+
+You'll find hello.c, a C program that does "Hello, World!" type things, and a Makefile that will compile it for you.
+
+Enjoy.
